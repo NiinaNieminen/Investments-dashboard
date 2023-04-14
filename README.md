@@ -1,1 +1,1 @@
-# Investments-dashboard
+Intereactive dashboard created using plotly and panel.
