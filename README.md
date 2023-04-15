@@ -1,4 +1,4 @@
-<b> Intereactive dashboard created using plotly and panel <\b>
+<b> Intereactive dashboard created using plotly and panel </b>
 
 The notebook uses fake data and illustrates how an interactive investments dashboard can be created. A private saver can have savings and investments in multiple fund management companies and banks, so the idea is to create one dashboard of all data which is downloaded from them. Harmonizing the data into the same format and adding market values to it is a topic on its own. 
 
